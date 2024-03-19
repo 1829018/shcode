@@ -24,5 +24,5 @@
     - 一键青年大学习
 
 ## 使用教程：
-
+-   创建一个名为 *students*的数据库，然后把项目里的*students.sql*文件导入进去
 -   本项目使用的是 laravel9，需要 php 版本 8+。在根目录打开控制台，使用 `php artisan sever --port=2024` 来启动项目

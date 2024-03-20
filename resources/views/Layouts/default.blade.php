@@ -11,6 +11,7 @@
 <link href="/gn-admin/css/bootstrap.min.css" rel="stylesheet">
 <link href="/gn-admin/css/materialdesignicons.min.css" rel="stylesheet">
 <link href="/gn-admin/css/style.min.css" rel="stylesheet">
+<link rel="icon" href="https://img.shteam.cn/z/2024/01/21/65ad2c2a03bb4.png">
 <style>
   .sidebar-header a img {
     max-width: 240px;
@@ -243,6 +244,6 @@
 <script type="text/javascript" src="/gn-admin/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/gn-admin/js/perfect-scrollbar.min.js"></script>
 <script type="text/javascript" src="/gn-admin/js/main.min.js"></script>
-
+<script src="/shcode/js/main.js"></script>
 </body>
 </html>
